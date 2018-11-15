@@ -1,3 +1,3 @@
-# content123
+# content
 
 - learn from [baeldung](https://www.baeldung.com/spring-graphql)
