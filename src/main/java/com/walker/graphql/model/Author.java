@@ -1,5 +1,9 @@
 package com.walker.graphql.model;
 
+/**
+ * @author walker
+ * @date 2018/11/29
+ */
 public class Author {
 
     private String id;

@@ -1,0 +1,13 @@
+query Post($count:Int, $offset:Int){
+  recentPosts(count: $count, offset: $offset) {
+    id
+    title
+    text
+    category
+    author {
+      id
+      name
+      thumbnail
+    }
+  }
+}

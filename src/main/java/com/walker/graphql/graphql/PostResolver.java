@@ -7,6 +7,10 @@ import com.walker.graphql.model.Post;
 
 import java.util.Optional;
 
+/**
+ * @author walker
+ * @date 2018/11/29
+ */
 public class PostResolver implements GraphQLResolver<Post> {
 
     private AuthorDao authorDao;

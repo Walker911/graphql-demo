@@ -6,6 +6,10 @@ import com.walker.graphql.model.Post;
 
 import java.util.List;
 
+/**
+ * @author walker
+ * @date 2018/11/29
+ */
 public class Query implements GraphQLQueryResolver {
 
     private PostDao postDao;

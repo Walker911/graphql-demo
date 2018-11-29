@@ -6,6 +6,10 @@ import com.walker.graphql.model.Post;
 
 import java.util.UUID;
 
+/**
+ * @author walker
+ * @date 2018/11/29
+ */
 public class Mutation implements GraphQLMutationResolver {
 
     private PostDao postDao;

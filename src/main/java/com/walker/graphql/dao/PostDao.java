@@ -5,6 +5,10 @@ import com.walker.graphql.model.Post;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * @author walker
+ * @date 2018/11/29
+ */
 public class PostDao {
 
     private List<Post> posts;

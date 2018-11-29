@@ -10,6 +10,10 @@ import org.springframework.context.annotation.Configuration;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author walker
+ * @date 2018/11/29
+ */
 @Configuration
 public class GraphQLConfiguration {
 
